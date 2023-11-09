@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "397425941911",
+    "project_id": "lanka-derana-71822",
+    "storage_bucket": "lanka-derana-71822.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397425941911:android:03474e884fd5ed4f5f78d2",
+        "android_client_info": {
+          "package_name": "com.example.lanka_derana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397425941911-gfhh5ck1r12alhe4mqrf1latieoiqtfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM_PjSdQX8LYMEqv-laZbvQenagiF4kFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397425941911-gfhh5ck1r12alhe4mqrf1latieoiqtfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
